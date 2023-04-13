@@ -17,4 +17,6 @@ Note: This feature is public preview at the moment.
 ## Documentation
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 <br>
+<br>
+<br>
 13-Apr-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
