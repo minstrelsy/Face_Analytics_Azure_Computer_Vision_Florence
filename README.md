@@ -5,6 +5,7 @@ We have some image vector embeddings and text vector embeddings that we can use.
 Cosine similarity about these embeddings can predict some attributes.
 
 Note: This feature is public preview at the moment.
+<br>
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/
 
 ## Demo notebook
